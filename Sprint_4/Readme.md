@@ -1,4 +1,4 @@
-EX4: Data Cleaning & Structuring
+# EX4: Data Cleaning & Structuring
 ---
 
 You are working as a Junior Data Analyst in the Business Intelligence Team at DMart.
