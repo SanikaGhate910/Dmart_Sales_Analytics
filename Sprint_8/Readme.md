@@ -5,12 +5,19 @@ You are working as a Junior Data Analyst in the Business Intelligence Team at DM
 ```
 The business maintains data across multiple sheets:
 Sheet 1: Sales Data
+
 - Order_ID	Product_ID	Customer_ID	Revenue
+
 Sheet 2: Product Master
+
 - Product_ID	Product_Name	Category
+
 Sheet 3: Customer Master
+
 - Customer_ID	Customer_Name	City
+
 Sheet 4: Region Master
+
 - City	Region
 
 Note: 
